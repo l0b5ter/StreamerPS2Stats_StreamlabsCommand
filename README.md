@@ -33,6 +33,6 @@ Feel free to take a look at the script "StreamerPS2Stats_StreamlabsCommand.py", 
                                                                                 
                                                                   
                                                                                    
-## Wanna support my work?                                                    
+#### Wanna support my work?                                                    
 [![Become a Patron!](https://i.imgur.com/BbE01dL.png)](https://www.patreon.com/bePatron?u=31657981)
 
