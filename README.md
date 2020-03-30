@@ -30,3 +30,5 @@ Only put your characters in the files. If there is more than 1 online at the sam
 
 Feel free to take a look at the script "StreamerPS2Stats_StreamlabsCommand.py", however if you make a change dont come and say its not working. Ill galdly help fix or improve it^^
 
+[![Become a Patron!](https://i.imgur.com/BbE01dL.png)](https://www.patreon.com/bePatron?u=31657981)
+
